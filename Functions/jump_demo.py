@@ -13,4 +13,3 @@ for size in range (20,70,5):    #die size variable wird von 10 bis 70 in 5er Sch
 
 
 exitonclick()
-
